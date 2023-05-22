@@ -1,2 +1,2 @@
 # Portfolio
-Created by Muhammad Audri Indraputra
+Created by: Muhammad Audri Indraputra
